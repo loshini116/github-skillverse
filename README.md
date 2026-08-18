@@ -1,6 +1,6 @@
-#example:event planning guide
-#community cleanup event 
-####objective
+#example:event planning guide<br>
+#community cleanup event <br>
+####objective<br>
 <p>organize a neighbourhood cleanup...... environent</p>
 <b>schedule</b>
 |time|activity|<br>
