@@ -9,10 +9,10 @@
 |12.00pm|refreshments|<br>
 ##volunteer checklist<\p>
 <hr>
-  -[]regular participants[]
-  -[]distribute gloves and bags[]
-  -[]assign cleanup zones[]
-  -[]collect waste[]
-  ##emergency contract
+  -[]regular participants[]<br>
+  -[]distribute gloves and bags[]<br>
+  -[]assign cleanup zones[]<br>
+  -[]collect waste[]<br>
+  ##emergency contract<br>
   <hr>
   <p>can that event cooridinates of assitance needed </p>
