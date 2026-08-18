@@ -6,13 +6,10 @@
 |time|activity| <br>
 |9.00am|safety briefing <br>
 |10.00am|cleanup begins| <br>
-|12.00pm|refreshments| <br>
-##volunteer checklist <\p>
+|12.00am|refreshments| <br>
+##volunteer checklist</p>
 <hr>
-  -[]regular participants[] <br>
-  -[]distribute gloves and bags[] <br>
-  -[]assign cleanup zones[] <br>
-  -[]collect waste[] <br>
-  ##emergency contract <br>
-  <hr>
-  <p>can that event cooridinates of assitance needed </p>
+-[]regular participants[]
+-[]distribute gloves and bags[]
+-[]assign cleanup zones[]
+-[]collect waste[]
