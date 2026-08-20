@@ -31,10 +31,10 @@ hidden contents goes here... <br>
 
 <b>schedule</b> <br>
 
-| Time  | activity     |
-|9.00am | registeration|
-|9.30am | safety       |
-:Fire:
+| Time   | activity     |
+| 9.00am | registeration|
+| 9.30am | safety       |
+
 
 
 
