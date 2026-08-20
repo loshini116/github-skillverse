@@ -34,8 +34,7 @@ hidden contents goes here... <br>
 | Time  | activity     |
 |9.00am | registeration|
 |9.30am | safety       |
-.Fire.
-
+:Fire:
 
 
 
