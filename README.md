@@ -30,6 +30,7 @@ hidden contents goes here... <br>
      <p>organize a neighourhood cleanup to improve the local environment</p> <br>
 
 <b>schedule</b> <br>
+<br>
 
 | Time   | activity     |
 | ----   | ----         |
